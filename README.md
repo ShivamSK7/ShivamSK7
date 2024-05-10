@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning in DU University computer science
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Data Analysis and Web Development Projects.
-- 📫 How to reach me shivamktariya@gmail.com
+- 📫 How to reach me shivamktariya447@gmail.com
 
 <!---
 ShivamSK7/ShivamSK7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
